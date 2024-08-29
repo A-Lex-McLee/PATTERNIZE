@@ -1,6 +1,6 @@
 # PATTERNIZATION
 This is a tool for classifying and analysing syntactic (word order) variation in annotated corpora; 
-the current version is applicable to the NPEGL noun phrase database. For background information on NPEGL, the material and the annotation system, as well as the idea(s) behind PATTERNIZATION, please consult: 
+the current version is applicable to the NPEGL noun phrase database (NPEGL: N_oun P_hrases in E_arly G_ermanic L_anguages). For background information on NPEGL, the material and the annotation system, as well as the idea(s) behind PATTERNIZATION, please consult: 
 
 Pfaff, Alexander. 2019. 'NPEGL -- Annotation Manual', Ms.   ("ANNO-Short").
 
