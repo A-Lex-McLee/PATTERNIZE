@@ -11,4 +11,4 @@ Pfaff, Alexander & Gerlof Bouma. 2024. 'The NPEGL noun phrase database: design a
 https://zenodo.org/records/10641183/files/436-Bech-Pfaff-2024-1.pdf?download=1 
 
 
-Also consult the brief tutorial ("", in progress) to be found in this directory.  
+Also consult the brief tutorial ("Patternize_tutorial.pdf"; in progress) to be found in this directory.  
